@@ -1,4 +1,4 @@
 class Vehicle:
     def __init__(self):
-        self.ccm = None
-        self.top_speed = None 
+        self.ccm = 0
+        self.top_speed = 0
